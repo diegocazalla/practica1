@@ -4,5 +4,9 @@ verde
 naranja 
 morado
 amarillo
+<<<<<<< HEAD
 rosa
 
+=======
+cyan
+>>>>>>> ed6e87352cf9603538927a64437451174483acac
